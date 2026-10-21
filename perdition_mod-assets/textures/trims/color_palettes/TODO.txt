@@ -1,0 +1,3 @@
+purgatine.png
+purgatine_darker.png
+topaz.png

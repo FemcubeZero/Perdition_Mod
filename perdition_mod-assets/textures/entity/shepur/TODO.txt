@@ -1,0 +1,3 @@
+shepur.png
+shepur_warrior.png
+frostbone_shepur.png

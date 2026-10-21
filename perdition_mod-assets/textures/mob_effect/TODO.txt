@@ -1,0 +1,5 @@
+crystallizing.png
+frost_resistance.png
+dexterity.png
+dusting.png
+silhouette.png

@@ -1,0 +1,4 @@
+steelhorn.png
+steelhorn_fur.png
+steelbones.png
+steelbones_fur.png

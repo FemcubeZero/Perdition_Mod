@@ -1,0 +1,41 @@
+chiseled_perdition_bricks.png (FINISH)
+frostsparkle_rubble.png (working name)
+xearflame.png
+soul_xear.png
+perdition_portal.png
+liquid_air_still.png
+liquid_air_flow.png
+liquid_air_bubbling_overlay.png
+liquid_air_boiling_overlay.png
+prism_ice.png
+night_ice.png
+ice_cream_block.png
+winter_block.png
+thermal_block.png
+wanstone.png
+pumice.png
+[crying obsidian version of pumice].png
+respawn_weighpoint.png
+perdition_topaz_ore.png
+perdition_iron_ore.png
+topaz_block.png
+smooth_topaz_block.png
+chiseled_topaz_block.png
+topaz_pillar.png
+topaz_bricks.png
+purgatine_slag.png
+purgatine_block.png
+perdition_yeast_stage0.png
+perdition_yeast_stage1.png
+perdition_yeast_stage2.png
+perdition_yeast_block.png
+[new wood type(s)]
+[new foliage type(s)]
+rime_brewing_stand.png
+frozen_ghast.png
+vitric_bricks.png
+chiseled_vitric_bricks.png
+orange_perdition_bricks.png
+chiseled_orange_perdition_bricks.png
+steel_wool.png
+

@@ -1,0 +1,7 @@
+purgatine_layer_1.png
+purgatine_layer_2.png
+
+steel_wool_layer_1.png
+steel_wool_layer_1_overlay.png
+steel_wool_layer_2.png
+steel_wool_layer_2_overlay.png

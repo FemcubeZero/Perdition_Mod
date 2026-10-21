@@ -1,0 +1,10 @@
+crystallized_full.png
+crystallized_full_blinking.png
+crystallized_half.png
+crystallized_half_blinking.png
+crystallized_hardcore_full.png
+crystallized_hardcore_full_blinking.png
+crystallized_hardcore_half.png
+crystallized_hardcore_half_blinking.png
+crystallized_container.png
+crystallized_container_blinking.png

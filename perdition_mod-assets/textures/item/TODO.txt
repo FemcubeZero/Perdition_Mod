@@ -1,0 +1,45 @@
+crystal_armor_trim_template.png (FINISH)
+coat_armor_trim_template.png
+purgatine_upgrade_template.png
+frostspark_stone.png (working name)
+frostspark_lighter.png
+bucket_of_liquid_air.png
+frost_charge.png
+prism_ice_shard.png
+night_ice_shard.png
+perdition_topaz.png
+purgatine_ingot.png
+dormant_purgatine.png
+purgatine_helmet.png
+purgatine_chestplate.png
+purgatine_leggings.png
+purgatine_boots.png
+purgatine_sword.png
+purgatine_pickaxe.png
+purgatine_axe.png
+purgatine_shovel.png
+purgatine_hoe.png
+purgatine_spear.png
+purgatine_horse_armor.png
+purgatine_nautilus_armor.png
+perdition_yeast.png
+rime_brewing_stand.png
+ice_cream.png
+lingering_spite.png
+loathful_bouquet.png
+drift_gel.png
+[music disc]
+
+steel_wool_upgrade_template.png
+steel_wool_helmet.png
+steel_wool_chestplate.png
+steel_wool_leggings.png
+steel_wool_boots.png
+steel_wool_horse_armor.png
+steel_wool_wolf_armor.png
+steel_wool_helmet_overlay.png
+steel_wool_chestplate_overlay.png
+steel_wool_leggings_overlay.png
+steel_wool_boots_overlay.png
+steel_wool_horse_armor_overlay.png
+steel_wool_wolf_armor_overlay.png

@@ -1,0 +1,4 @@
+crystal.png
+crystal_leggings.png
+coat.png
+coat_leggings.png
