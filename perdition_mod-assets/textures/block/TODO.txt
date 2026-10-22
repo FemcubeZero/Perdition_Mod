@@ -9,15 +9,13 @@ liquid_air_bubbling_overlay.png
 liquid_air_boiling_overlay.png
 prism_ice.png
 night_ice.png
+hoarfrost.png
 ice_cream_block.png
 winter_block.png
 thermal_block.png
 wanstone.png
-pumice.png
 [crying obsidian version of pumice].png
 respawn_weighpoint.png
-perdition_topaz_ore.png
-perdition_iron_ore.png
 topaz_block.png
 smooth_topaz_block.png
 chiseled_topaz_block.png

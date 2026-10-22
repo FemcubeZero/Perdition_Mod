@@ -1,3 +1,2 @@
-nether.png
 perdition.png
 nether_perdition.png

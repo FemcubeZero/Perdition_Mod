@@ -30,6 +30,17 @@ loathful_bouquet.png
 drift_gel.png
 [music disc]
 
+steelhorn_spawn_egg.png
+steelbones_spawn_egg.png
+shepur_spawn_egg.png
+frostbone_shepur_spawn_egg.png
+wraith_spawn_egg.png
+snow_drift_spawn_egg.png
+rime_spawn_egg.png
+vitrified_skeleton_spawn_egg.png
+vitriolic_abomination_spawn_egg.png
+
+
 steel_wool_upgrade_template.png
 steel_wool_helmet.png
 steel_wool_chestplate.png
