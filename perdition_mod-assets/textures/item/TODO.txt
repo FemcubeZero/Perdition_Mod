@@ -1,7 +1,6 @@
 crystal_armor_trim_template.png (FINISH)
 coat_armor_trim_template.png
-purgatine_upgrade_template.png
-frostspark_stone.png (working name)
+verglas_stone.png
 frostspark_lighter.png
 bucket_of_liquid_air.png
 frost_charge.png
@@ -23,7 +22,6 @@ purgatine_spear.png
 purgatine_horse_armor.png
 purgatine_nautilus_armor.png
 perdition_yeast.png
-rime_brewing_stand.png
 ice_cream.png
 lingering_spite.png
 loathful_bouquet.png

@@ -1,5 +1,5 @@
 chiseled_perdition_bricks.png (FINISH)
-frostsparkle_rubble.png (working name)
+verglas_rubble.png
 xearflame.png
 soul_xear.png
 perdition_portal.png
@@ -9,10 +9,8 @@ liquid_air_bubbling_overlay.png
 liquid_air_boiling_overlay.png
 prism_ice.png
 night_ice.png
-hoarfrost.png
 ice_cream_block.png
 winter_block.png
-thermal_block.png
 wanstone.png
 [crying obsidian version of pumice].png
 respawn_weighpoint.png
@@ -29,7 +27,6 @@ perdition_yeast_stage2.png
 perdition_yeast_block.png
 [new wood type(s)]
 [new foliage type(s)]
-rime_brewing_stand.png
 frozen_ghast.png
 vitric_bricks.png
 chiseled_vitric_bricks.png
