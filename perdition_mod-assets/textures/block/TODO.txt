@@ -12,6 +12,11 @@ night_ice.png
 ice_cream_block.png
 winter_block.png
 wanstone.png
+ferrous_wanstone.png
+polished_wanstone.png
+chiseled_polished_wanstone.png
+polished_wanstone_bricks.png
+cracked_polished_wanstone_bricks.png
 [crying obsidian version of pumice].png
 respawn_weighpoint.png
 topaz_block.png

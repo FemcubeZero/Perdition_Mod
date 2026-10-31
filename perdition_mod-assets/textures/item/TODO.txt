@@ -1,4 +1,3 @@
-crystal_armor_trim_template.png (FINISH)
 coat_armor_trim_template.png
 verglas_stone.png
 frostspark_lighter.png
