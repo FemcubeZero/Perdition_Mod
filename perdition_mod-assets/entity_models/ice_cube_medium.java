@@ -9,11 +9,13 @@ public class entity-ice_cube<T extends Entity> extends EntityModel<T> {
 	private final ModelPart cube;
 	private final ModelPart inner_cube;
 	private final ModelPart face;
+	private final ModelPart decor;
 
 	public entity-ice_cube(ModelPart root) {
 		this.cube = root.getChild("cube");
 		this.inner_cube = this.cube.getChild("inner_cube");
 		this.face = this.cube.getChild("face");
+		this.decor = this.cube.getChild("decor");
 	}
 
 	public static LayerDefinition createBodyLayer() {
@@ -25,6 +27,8 @@ public class entity-ice_cube<T extends Entity> extends EntityModel<T> {
 		PartDefinition inner_cube = cube.addOrReplaceChild("inner_cube", CubeListBuilder.create().texOffs(0, 32).addBox(-6.5F, -6.5F, -6.5F, 13.0F, 13.0F, 13.0F, new CubeDeformation(0.0F)), PartPose.offset(0.0F, -8.0F, 0.0F));
 
 		PartDefinition face = cube.addOrReplaceChild("face", CubeListBuilder.create().texOffs(48, 0).addBox(-8.0F, -8.0F, -0.01F, 16.0F, 16.0F, 0.0F, new CubeDeformation(0.0F)), PartPose.offset(0.0F, -8.0F, -7.99F));
+
+		PartDefinition decor = cube.addOrReplaceChild("decor", CubeListBuilder.create().texOffs(64, 0).addBox(-8.0F, -8.0F, -8.0F, 16.0F, 16.0F, 16.0F, new CubeDeformation(0.25F)), PartPose.offset(0.0F, -8.0F, 0.0F));
 
 		return LayerDefinition.create(meshdefinition, 128, 64);
 	}
